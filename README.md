@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi, I’m Rutansh 
 
-<!--
-**mehta-rutansh/mehta-rutansh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ Currently pursuing MSc IT  
+ Exploring Data Science | Python | SQL | HTML & CSS  
+ Driven by Curiosity & Purpose  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#  Tech Stack
+-  Languages: Python, SQL, HTML, CSS
+-  Tools: VS Code, Git, GitHub
+-  Learning: Pandas, NumPy, Django (soon!)
+
+---
+
+# Learning Goals
+- Data Science (ML, NLP)
+- Django / Flask
+- GitHub Workflow & Collaboration
+
+---
+
+# Pinned Projects
+> 
+- Weather Web App 
+
+
+---
+
+# Let’s Connect
+-  [LinkedIn](www.linkedin.com/in/rutansh-mehta-28016a36b)
+

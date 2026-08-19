@@ -13,9 +13,7 @@
 
 I'm a Data Science fresher based in Ahmedabad, India, currently working as a **Data Science & ML Intern at Brainybeam Technologies**. I build end-to-end data science projects — from raw data and SQL pipelines to deployed ML models and BI dashboards someone can actually use to make a decision.
 
-- 🔭 Currently building **DemandIQ**, a retail demand forecasting project (SQL + time-series feature engineering)
 - 🎯 Actively looking for **Data Analyst / Data Scientist** roles
-- 🌱 Long-term, interested in data consulting for SMEs
 - 💬 Happy to talk data, feel free to reach out
 
 ---

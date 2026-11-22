@@ -1,24 +1,29 @@
 <h1 align="center">Hi, I'm Rutansh Mehta 👋</h1>
-<h3 align="center">Data Science & ML Intern @ Brainybeam Technologies | Turning raw data into business decisions</h3>
+<h3 align="center">Business Development Executive @ iFlair Web Technologies | Data Science & ML | Turning raw data into business decisions</h3>
 
 <p align="center">
   <a href="https://mehta-rutansh.github.io/"><img src="https://img.shields.io/badge/Portfolio-mehta--rutansh.github.io-22c55e?style=flat-square" /></a>
   <a href="https://www.linkedin.com/in/rutansh-mehta-28016a36b/"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:mehtarutansh7@gmail.com"><img src="https://img.shields.io/badge/Email-mehtarutansh7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:mehtarutansh7@gmail.com"><img src="https://img.shields.io/badge/Email-mehtarutansh7%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" /></a> 
 </p>
 
 ---
 
 ### About Me
 
-I'm a Data Science fresher based in Ahmedabad, India, currently working as a **Data Science & ML Intern at Brainybeam Technologies**. I build end-to-end data science projects — from raw data and SQL pipelines to deployed ML models and BI dashboards someone can actually use to make a decision.
+I'm based in Ahmedabad, India, with an M.Sc. in Information Technology. I currently work as a **Business Development Executive at iFlair Web Technologies**, where I find potential clients, reach out by cold email and call, follow up, and move them through the pipeline from prospect to client.
 
-- 🎯 Actively looking for **Data Analyst / Data Scientist** roles
-- 💬 Happy to talk data, feel free to reach out
+Before that, I was a **Data Science & ML Intern at Brainybeam Technologies**. I build end-to-end data science projects — from raw data and SQL pipelines to deployed ML models and BI dashboards someone can actually use to make a decision.
+
+- 💼 Currently in business development, still building data projects
+- 💬 Happy to talk data or business, feel free to reach out
 
 ---
 
 ### 🛠️ Skills
+
+**Business Development**
+Lead Generation · Prospecting · Cold Calling · Cold Email Outreach · Follow-ups · Pipeline Building · Data Scraping
 
 **Data & Analytics**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
